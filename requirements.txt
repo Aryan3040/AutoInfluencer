@@ -1,0 +1,14 @@
+streamlit==1.29.0
+google-api-python-client==2.110.0
+youtube-transcript-api==0.6.1
+groq==0.4.1
+openai==1.6.1
+python-dotenv==1.0.0
+pandas==2.1.4
+requests==2.31.0
+openai-whisper==20231117
+yt-dlp==2023.12.30
+torch==2.1.2
+torchaudio==2.1.2
+pyperclip==1.8.2
+flask==2.3.3 

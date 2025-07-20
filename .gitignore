@@ -1,0 +1,32 @@
+# Environment variables
+.env
+.env.local
+
+# Virtual environment
+venv/
+__pycache__/
+*.pyc
+
+# Data files
+*.csv
+*.log
+
+# Media files
+*.mp4
+*.wav
+*.mp3
+*.avi
+*.mov
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Temporary files
+temp_* 
